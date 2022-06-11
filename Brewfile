@@ -27,6 +27,7 @@ cask "docker"
 cask "1password"
 cask "telegram-desktop"
 cask "microsoft-excel"
+cask "google-drive"
 mas "KakaoTalk", id: 869223134
 mas "Divvy", id: 413857545
 mas "Irvue", id: 1039633667
